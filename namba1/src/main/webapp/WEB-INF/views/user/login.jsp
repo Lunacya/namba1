@@ -42,7 +42,7 @@
 									class="icon_mail"></span>
 							</div>
 							<div class="input__item">
-                                <input type="password" id="userPassword" name="userPassword" placeholder="Password">
+                                <input type="password" id="userPassword" name="userPassword" required="required" placeholder="Password">
 								<span class="icon_lock"></span>
 							</div>
 							<button type="submit" class="site-btn">Login Now</button>

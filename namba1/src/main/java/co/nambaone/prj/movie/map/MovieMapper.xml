@@ -4,7 +4,7 @@
 	<!-- api에서 가져오는 것,,지울수더... -->
 	<select id="willInsert"></select>
 	
-	<select id="insertedSelect" resultType=""></select>
+	<!--   <select id="insertedSelect" resultType=""></select> -->
 	
 	<update id="movieUpdate"></update>
 	<insert id="movieInsert"></insert>
